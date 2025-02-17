@@ -1,0 +1,13 @@
+verificar versão da distro:
+lsb_release -a
+
+atualizar pacotes:
+sudo apt update
+
+atualizar o Sistema Operacional:
+sudo su
+apt upgrade
+
+para matar um processo:
+-comando retorna número do ID do processo: pgrep [nome do programa] 
+-matar o processo: kill -9 [IDdo processo]
