@@ -1,0 +1,7 @@
+primeira linha
+segunda linha
+terceira linha
+quarta linha
+quinta linha
+{'a': ['Bota', 20], 'b': ['Machado', 2], 'c': ['antidoto', 3]}
+entrando com uma nova linha

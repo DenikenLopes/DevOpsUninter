@@ -1,0 +1,19 @@
+criando repositório local:
+
+git init
+git add *
+git commit -m "primeiro codigo"
+git branch -M main
+
+
+criando um repositório remoto:
+
+push com username:
+git remote add origin https//github.com/nomedaconta/nomedorepositorio.git
+git push -u origin main
+
+push com tolken:
+git remote set-url origin http//códigodotoken/nomedaconta/nomedorepositorio.git
+git push -u origin main
+
+
