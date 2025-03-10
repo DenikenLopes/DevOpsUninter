@@ -1,0 +1,73 @@
+
+--------------- APOL 01 ----------------
+
+* Exite um problema enfrentado por muitos usários que é a colaboração com 
+desenvolvedores que estão em outros sistemas:
+
+Para resolver esse problema, foi desenvolvido o
+--> Sistemas Centralizados de Controle de Versão (CVCSs)
+
+-----------------------------------------------------------------------------------
+* CULTURA DevOps
+
+1- Monitoramento continuo -> Implementação de soluções de monitoramento para 
+                             acompanhar o desempenho do software em tempo real.
+2- Gerenciamento de configuração -> Controle e automação da configuração de software e infraestrutura.
+
+3- Entrega contínua (CD) -> Automação do processo de liberação de software para ambientes de
+			    teste e produção, permitindo transferências frequentes e confiáveis
+
+4-Automação de Infraestrutura -> Utilização de ferramentas para automatizar a configuração
+                                 e o provisionamento de ambientes de infraestrutura
+
+5-Integração continua (CI) -> Automação da integração de código de diferentes contribuidores
+                              em um único projeto
+
+----------------------------------------------------------------------------------------
+* GIT comandos:
+
+1 - Commits		-> Registra o progresso dos códigos na ramificação local 
+2 - Merge   		-> Após a aprovação, a ramificação é mesclada na branch principal
+3 - Criação de Branch 	-> Iniciar uma nova ramificação para trabalhar em uma funcionalidade ou correção
+4 - Pull Requests	-> Inicia uma revisão do código e uma discussão 
+5 - Push		-> Enviar a ramificação para o repositório remoto para colaboração e backup
+
+-----------------------------------------------------------------------------------------
+* Para a implementação bem-sucedida de DevOps e alcançar a excelência operacional e a 
+satisfação do cliente, é preciso ter os seguintes itens assegurados:
+
+-> Automação, colaboração e cultura organizacional
+
+---------------------------------------------------------------------------------------------
+* Existem diversas ferramentas em DevOps que podem ser utilizadas para gestão de backup. 
+Algumas delas incluem:
+
+-> Veeam, Rubrik, Veritas NetBackup, AWS Backup e GitLab.
+
+----------------------------------------------------------------------------------------------
+
+* Na engenharia de software, temos um processo que trata da prática de mesclar todas as cópias de 
+trabalho dos desenvolvedores em uma linha principal compartilhada, várias vezes ao dia.
+ Esse processo automatiza a integração de alterações de código de vários desenvolvedores em 
+um único repositório central. Seu objetivo principal é identificar e resolver problemas de 
+integração precocemente, antes que eles se tornem grandes e difíceis de corrigir.
+
+Essa é a descrição do processo:
+
+-> Integração Contínua (CI)
+
+-------------------------------------------------------------------------------------------------
+
+* A implementação bem-sucedida de algumas aplicações práticas no contexto do DevOps contribui para
+uma entrega de software mais eficiente, confiável e alinhada aos objetivos de negócios.
+Entre essas aplicações práticas podemos citar:
+
+-> Comunicação, agilidade, eficiência e cultura de colaboração.
+
+---------------------------------------------------------------------------------------------
+
+* Existe uma metodologia de desenvolvimento amplamente adotada nas empresas.
+
+-> Extreme Programming (XP)
+
+--------------------------------------------------------------------------------------
